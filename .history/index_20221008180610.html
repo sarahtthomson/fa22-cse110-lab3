@@ -13,7 +13,7 @@
         </header>
         <main>
             <nav class="nav">
-                <h3>Navigation</h4>
+                <h4>Navigation</h4>
                 <ol>
                     <li><a href="#Attendance" >Attendance</a></li>
                     <li><a href="#Agenda">Agenda</a></li>
@@ -26,7 +26,7 @@
                 </ol>
             </nav>
             <div class="Attendance" id="Attendance">
-                <h3>Attendance</h3>
+                <h4>Attendance</h4>
                 <ul>
                     <li><input type="checkbox">Sarah</li>
                     <li><input type="checkbox">Mika</li>
@@ -40,57 +40,40 @@
                 </ul>
             </div>
             <div class="Agenda" id="Agenda">
-                <h3>Agenda</h3>
+                <h4>Agenda</h4>
 
             </div>
             <div class="Unfinished" id="Unfinished">
-                <h3>Unfinished Business</h3>
+                <h4>Unfinished Business</h4>
             </div>
             <div class="New" id="New">
-                <h3>New Business</h3>
+                <h4>New Business</h4>
             </div>
             <div class="Comments" id="Comments">
-                <h3>Comments, Questions, Concerns</h3>
+                <h4>Comments, Questions, Concerns</h4>
                 <form method="get" class="cqc">
-                    <fieldset>
-                        <label for="name"><b>Name:</b></label>
-                        <input type="text" name="name" id="name">
-                        <label for="date"><b>Date:</b></label>
-                        <input type="date" name="date" id="date">
-                        <p></p>
-                        <label for="cqorc"><b>Type of Input:</b></label>
-                        <input list="type-of-input" id="choice" name="choice">
-                        <datalist id="type-of-input">
-                            <option value="comment">
-                            <option value="question">
-                            <option value="concern">
-                        </datalist>
-                        <p></p>
-                        <label for="textbox"><b>What is your comment, question, or concern:</b></label>
-                        <textarea id="textbox" name="textbox" rows="10" cols="70"></textarea>
-                        <p></p>
-                        <label for="best-photo"><b>Favorite photo of Brownie presented this week:</b></label>
-                        <select name="photos" id="photo-select">
-                            <option value="">pick a photo</option>
-                            <option value="a">a</option>
-                            <option value="b">b</option>
-                            <option value="c">c</option>
-                            <option value="d">d</option>
-                            <option value="e">e</option>
-                        </select>
-                        <p></p>
-                        <label for="best"><b>Who is the best cat:</b></label>
-                        <input type="radio" id="brownie" name="cat"><label for="brownie">Brownie</label>
-                        <input type="radio" id="brownie!" name="cat"><label for="brownie!"><strong>BROWNIE</strong></label>
-                    </fieldset>
+                    <label for="name"><b>Name:</b></label>
+                    <input type="text" name="name" id="name">
+                    <label for="date"><b>Date:</b></label>
+                    <input type="date" name="date" id="date">
+                    <label for="cqorc"><b>Type of Input:</b></label>
+                    <select id="input">
+                        <option value="">--pick an input--</option>
+                        <option value="comment">Comment</option>
+                        <option value="question">Question</option>
+                        <option value="concern">Concern</option>
+                    </select>
+                    <p></p>
+                    <label for="textbox">What is your comment, question, or concern:</label>
+                    <textarea id="textbox" name="textbox" rows="10" cols="70"></textarea>
                 </form> 
             </div>
             <div class="Material" id="Material">
-                <h3>Material Presented</h3>
+                <h4>Material Presented</h4>
                 <img height="250" width="250" src="cat.jpg">
             </div>
             <div class="Audio" id="Audio">
-                <h3>Audio of Meeting</h3>
+                <h4>Audio of Meeting</h4>
             </div>
             <div class="Video" id="Video">
                 <h4>Video of Meeting</h4>

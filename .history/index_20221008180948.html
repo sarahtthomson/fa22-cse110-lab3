@@ -52,37 +52,20 @@
             <div class="Comments" id="Comments">
                 <h3>Comments, Questions, Concerns</h3>
                 <form method="get" class="cqc">
-                    <fieldset>
-                        <label for="name"><b>Name:</b></label>
-                        <input type="text" name="name" id="name">
-                        <label for="date"><b>Date:</b></label>
-                        <input type="date" name="date" id="date">
-                        <p></p>
-                        <label for="cqorc"><b>Type of Input:</b></label>
-                        <input list="type-of-input" id="choice" name="choice">
-                        <datalist id="type-of-input">
-                            <option value="comment">
-                            <option value="question">
-                            <option value="concern">
-                        </datalist>
-                        <p></p>
-                        <label for="textbox"><b>What is your comment, question, or concern:</b></label>
-                        <textarea id="textbox" name="textbox" rows="10" cols="70"></textarea>
-                        <p></p>
-                        <label for="best-photo"><b>Favorite photo of Brownie presented this week:</b></label>
-                        <select name="photos" id="photo-select">
-                            <option value="">pick a photo</option>
-                            <option value="a">a</option>
-                            <option value="b">b</option>
-                            <option value="c">c</option>
-                            <option value="d">d</option>
-                            <option value="e">e</option>
-                        </select>
-                        <p></p>
-                        <label for="best"><b>Who is the best cat:</b></label>
-                        <input type="radio" id="brownie" name="cat"><label for="brownie">Brownie</label>
-                        <input type="radio" id="brownie!" name="cat"><label for="brownie!"><strong>BROWNIE</strong></label>
-                    </fieldset>
+                    <label for="name"><b>Name:</b></label>
+                    <input type="text" name="name" id="name">
+                    <label for="date"><b>Date:</b></label>
+                    <input type="date" name="date" id="date">
+                    <label for="cqorc"><b>Type of Input:</b></label>
+                    <select id="input">
+                        <option value="">--pick an input--</option>
+                        <option value="comment">Comment</option>
+                        <option value="question">Question</option>
+                        <option value="concern">Concern</option>
+                    </select>
+                    <p></p>
+                    <label for="textbox"><b>What is your comment, question, or concern:</b></label>
+                    <textarea id="textbox" name="textbox" rows="10" cols="70"></textarea>
                 </form> 
             </div>
             <div class="Material" id="Material">
