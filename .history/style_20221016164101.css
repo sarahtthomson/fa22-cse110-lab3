@@ -8,7 +8,7 @@ header {
     margin-top: 30pt;
     margin-left: 10vw;
     margin-right: 10vw;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
 }
 
 nav {
@@ -18,7 +18,7 @@ nav {
     width: 40vw;
     height: 35vmax;
 
-    margin: 15px;
+    margin: 3pc 10vw 10vw 10px;
 }
 
 .Attendance {
@@ -28,7 +28,7 @@ nav {
     height: 37vh;
     width: 25vw;
 
-    margin: 15px;
+    margin: 10px 10vw 10vh 15px;
 }
 
 .Agenda {
@@ -48,7 +48,7 @@ nav {
     height: 27vh;
     width: 70vw;
     max-height: 5000px;
-    max-width: 5000mm;
+    max-width: 5000px;
     min-height: 10px;
     min-width: 10px;
 
@@ -80,7 +80,7 @@ nav {
 
     width: 50vw;
 
-    margin: 15px;
+    
 }
 
 .Audio {
@@ -88,8 +88,6 @@ nav {
     border: 1px solid black;
 
     width: 50vw;
-
-    margin: 15px;
 }
 
 .Video {
@@ -97,8 +95,6 @@ nav {
     border: 1px solid black;
 
     width: 50vw;
-
-    margin: 15px;
 }
 
 footer {
@@ -106,9 +102,4 @@ footer {
     border: 1px solid black;
 
     width: 40vw;
-
-    margin-right: 5px;
-    margin-left: 55vw;
-    margin-bottom:auto;
-    margin-top:auto;
 }

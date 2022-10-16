@@ -88,8 +88,6 @@ nav {
     border: 1px solid black;
 
     width: 50vw;
-
-    margin: 15px;
 }
 
 .Video {
@@ -97,8 +95,6 @@ nav {
     border: 1px solid black;
 
     width: 50vw;
-
-    margin: 15px;
 }
 
 footer {
@@ -106,9 +102,4 @@ footer {
     border: 1px solid black;
 
     width: 40vw;
-
-    margin-right: 5px;
-    margin-left: 55vw;
-    margin-bottom:auto;
-    margin-top:auto;
 }

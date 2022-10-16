@@ -5,10 +5,7 @@ header {
     width: 80vw;
     height: 25ex;
     
-    margin-top: 30pt;
-    margin-left: 10vw;
-    margin-right: 10vw;
-    margin-bottom: 5px;
+    margin-top: 20pt;
 }
 
 nav {
@@ -17,8 +14,6 @@ nav {
 
     width: 40vw;
     height: 35vmax;
-
-    margin: 15px;
 }
 
 .Attendance {
@@ -26,9 +21,7 @@ nav {
     border: 1px solid black;
 
     height: 37vh;
-    width: 25vw;
-
-    margin: 15px;
+    width: 25vw
 }
 
 .Agenda {
@@ -37,8 +30,6 @@ nav {
 
     height: 25vh;
     width: 60vw;
-
-    margin:auto;
 }
 
 .Unfinished {
@@ -48,11 +39,9 @@ nav {
     height: 27vh;
     width: 70vw;
     max-height: 5000px;
-    max-width: 5000mm;
+    max-width: 5000px;
     min-height: 10px;
     min-width: 10px;
-
-    margin:auto;
 }
 
 .New {
@@ -61,8 +50,6 @@ nav {
 
     height: 27vh;
     width: 70vw;
-
-    margin:auto;
 }
 
 .Comments {
@@ -70,8 +57,6 @@ nav {
     border: 1px solid black;
 
     width: 80vw;
-
-    margin:auto;
 }
 
 .Material {
@@ -79,8 +64,6 @@ nav {
     border: 1px solid black;
 
     width: 50vw;
-
-    margin: 15px;
 }
 
 .Audio {
@@ -88,8 +71,6 @@ nav {
     border: 1px solid black;
 
     width: 50vw;
-
-    margin: 15px;
 }
 
 .Video {
@@ -97,8 +78,6 @@ nav {
     border: 1px solid black;
 
     width: 50vw;
-
-    margin: 15px;
 }
 
 footer {
@@ -106,9 +85,4 @@ footer {
     border: 1px solid black;
 
     width: 40vw;
-
-    margin-right: 5px;
-    margin-left: 55vw;
-    margin-bottom:auto;
-    margin-top:auto;
 }
