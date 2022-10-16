@@ -1,7 +1,7 @@
 ---
 name: Tasks
 about: to breakdown tasks of the lab
-title: "[Feature]"
+title: Overarching task theme
 labels: ''
 assignees: sarahtthomson
 
@@ -9,10 +9,8 @@ assignees: sarahtthomson
 
 # Description
 
-Brief Description of task
+Brief Description of what the overarching tak theme is
 
-## Breakdown
+## Breakdown of included tasks
 
-- Task 1
-- Task 2
-- Task 3
+-
