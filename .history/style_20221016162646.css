@@ -45,42 +45,29 @@ nav {
 .New {
     border-radius: 5px;
     border: 1px solid black;
-
-    height: 27vh;
-    width: 70vw;
 }
 
 .Comments {
     border-radius: 5px;
     border: 1px solid black;
-
-    width: 80vw;
 }
 
 .Material {
     border-radius: 5px;
     border: 1px solid black;
-
-    width: 50vw;
 }
 
 .Audio {
     border-radius: 5px;
     border: 1px solid black;
-
-    width: 50vw;
 }
 
 .Video {
     border-radius: 5px;
     border: 1px solid black;
-
-    width: 50vw;
 }
 
 footer {
     border-radius: 5px;
     border: 1px solid black;
-
-    width: 40vw;
 }
