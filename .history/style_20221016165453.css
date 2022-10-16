@@ -2,7 +2,7 @@ header {
     border-radius: 5px;
     border: 1px solid black;
 
-    width: 60vw;
+    width: 80vw;
     height: 25ex;
     
     margin-top: 30pt;
@@ -37,7 +37,7 @@ nav {
 
     margin: 15px;
 
-    padding: 20px;
+    padding: 10px;
 }
 
 .Agenda {
@@ -48,8 +48,6 @@ nav {
     width: 60vw;
 
     margin:auto;
-
-    padding: 20px;
 }
 
 .Unfinished {
@@ -64,8 +62,6 @@ nav {
     min-width: 10px;
 
     margin:auto;
-
-    padding: 20px;
 }
 
 .New {
@@ -76,8 +72,6 @@ nav {
     width: 70vw;
 
     margin:auto;
-
-    padding: 20px;
 }
 
 .Comments {
@@ -87,8 +81,6 @@ nav {
     width: 80vw;
 
     margin:auto;
-
-    padding: 20px;
 }
 
 .Material {
@@ -98,8 +90,6 @@ nav {
     width: 50vw;
 
     margin: 15px;
-
-    padding: 20px;
 }
 
 .Audio {
@@ -109,8 +99,6 @@ nav {
     width: 50vw;
 
     margin: 15px;
-
-    padding: 20px;
 }
 
 .Video {
@@ -120,20 +108,16 @@ nav {
     width: 50vw;
 
     margin: 15px;
-
-    padding: 20px;
 }
 
 footer {
     border-radius: 5px;
     border: 1px solid black;
 
-    width: 35vw;
+    width: 40vw;
 
     margin-right: 5px;
     margin-left: 55vw;
     margin-bottom:auto;
     margin-top:auto;
-
-    padding: 10px;
 }
