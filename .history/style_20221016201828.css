@@ -1,5 +1,5 @@
-html {
-    background-image: linear-gradient(rgb(255, 0, 0), #FFA500, yellow, green, purple, blue, indigo, violet);
+* {
+    background-image: linear-gradient(red, orange, yellow, green, purple, blue, indigo, violet);
 }
 
 header {
