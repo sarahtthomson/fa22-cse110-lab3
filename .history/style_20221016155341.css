@@ -1,0 +1,57 @@
+header {
+    border-radius: 5px;
+    border: 1px solid black;
+}
+
+nav {
+    border-radius: 5px;
+    border: 1px solid black;
+}
+
+.Attendance {
+    border-radius: 5px;
+    border: 1px solid black;
+}
+
+.Agenda {
+    border-radius: 5px;
+    border: 1px solid black;
+}
+
+.Unfinished {
+    border-radius: 5px;
+    border: 1px solid black;
+
+    height: 20ex;
+    width: 10dvh;
+}
+
+.New {
+    border-radius: 5px;
+    border: 1px solid black;
+}
+
+.Comments {
+    border-radius: 5px;
+    border: 1px solid black;
+}
+
+.Material {
+    border-radius: 5px;
+    border: 1px solid black;
+}
+
+.Audio {
+    border-radius: 5px;
+    border: 1px solid black;
+}
+
+.Video {
+    border-radius: 5px;
+    border: 1px solid black;
+}
+
+footer {
+    border-radius: 5px;
+    border: 1px solid black;
+}

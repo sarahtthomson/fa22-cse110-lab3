@@ -115,6 +115,9 @@ nav {
 }
 
 .Audio {
+    border-radius: 5px;
+    border: 1px solid black;
+
     width: 50vw;
 
     margin: 15px;
@@ -123,6 +126,9 @@ nav {
 }
 
 .Video {
+    border-radius: 5px;
+    border: 1px solid black;
+
     width: 50vw;
 
     margin: 15px;
@@ -131,6 +137,9 @@ nav {
 }
 
 footer {
+    border-radius: 5px;
+    border: 1px solid black;
+
     width: 35vw;
 
     margin-right: 5px;

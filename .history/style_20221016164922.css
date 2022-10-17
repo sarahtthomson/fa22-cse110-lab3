@@ -1,0 +1,116 @@
+header {
+    border-radius: 5px;
+    border: 1px solid black;
+
+    width: 80vw;
+    height: 25ex;
+    
+    margin-top: 30pt;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    margin-bottom: 5px;
+
+    padding-top: 10px;
+}
+
+nav {
+    border-radius: 5px;
+    border: 1px solid black;
+
+    width: 40vw;
+    height: 35vmax;
+
+    margin: 15px;
+}
+
+.Attendance {
+    border-radius: 5px;
+    border: 1px solid black;
+
+    height: 37vh;
+    width: 25vw;
+
+    margin: 15px;
+}
+
+.Agenda {
+    border-radius: 5px;
+    border: 1px solid black;
+
+    height: 25vh;
+    width: 60vw;
+
+    margin:auto;
+}
+
+.Unfinished {
+    border-radius: 5px;
+    border: 1px solid black;
+
+    height: 27vh;
+    width: 70vw;
+    max-height: 5000px;
+    max-width: 5000mm;
+    min-height: 10px;
+    min-width: 10px;
+
+    margin:auto;
+}
+
+.New {
+    border-radius: 5px;
+    border: 1px solid black;
+
+    height: 27vh;
+    width: 70vw;
+
+    margin:auto;
+}
+
+.Comments {
+    border-radius: 5px;
+    border: 1px solid black;
+
+    width: 80vw;
+
+    margin:auto;
+}
+
+.Material {
+    border-radius: 5px;
+    border: 1px solid black;
+
+    width: 50vw;
+
+    margin: 15px;
+}
+
+.Audio {
+    border-radius: 5px;
+    border: 1px solid black;
+
+    width: 50vw;
+
+    margin: 15px;
+}
+
+.Video {
+    border-radius: 5px;
+    border: 1px solid black;
+
+    width: 50vw;
+
+    margin: 15px;
+}
+
+footer {
+    border-radius: 5px;
+    border: 1px solid black;
+
+    width: 40vw;
+
+    margin-right: 5px;
+    margin-left: 55vw;
+    margin-bottom:auto;
+    margin-top:auto;
+}

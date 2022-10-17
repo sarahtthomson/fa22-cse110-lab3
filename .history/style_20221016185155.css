@@ -34,6 +34,9 @@ nav {
 }
 
 #Attendance {
+    border-radius: 5px;
+    border: 1px solid black;
+
     height: 37vh;
     width: 25vw;
 
@@ -46,6 +49,9 @@ nav {
 }
 
 .Agenda {
+    border-radius: 5px;
+    border: 1px solid black;
+
     height: 25vh;
     width: 40vw;
 
@@ -55,6 +61,9 @@ nav {
 }
 
 .Unfinished {
+    border-radius: 5px;
+    border: 1px solid black;
+
     height: 35vh;
     width: 40vw;
     max-height: 5000px;
@@ -68,6 +77,9 @@ nav {
 }
 
 .New {
+    border-radius: 5px;
+    border: 1px solid black;
+
     height: 35vh;
     width: 50vw;
 
@@ -95,9 +107,7 @@ nav {
 
 .Material {
     border-radius: 5px;
-    border-style: ridge dashed;
-    border-color: rgb(0,128,128);
-    border-width: 20px;
+    border: 1px solid black;
 
     width: 80vw;
     height: auto;
@@ -115,6 +125,9 @@ nav {
 }
 
 .Audio {
+    border-radius: 5px;
+    border: 1px solid black;
+
     width: 50vw;
 
     margin: 15px;
@@ -123,6 +136,9 @@ nav {
 }
 
 .Video {
+    border-radius: 5px;
+    border: 1px solid black;
+
     width: 50vw;
 
     margin: 15px;
@@ -131,6 +147,9 @@ nav {
 }
 
 footer {
+    border-radius: 5px;
+    border: 1px solid black;
+
     width: 35vw;
 
     margin-right: 5px;

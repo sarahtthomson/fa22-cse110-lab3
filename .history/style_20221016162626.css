@@ -1,0 +1,73 @@
+header {
+    border-radius: 5px;
+    border: 1px solid black;
+
+    width: 80vw;
+    height: 25ex;
+}
+
+nav {
+    border-radius: 5px;
+    border: 1px solid black;
+
+    width: 40vw;
+    height: 35vmax;
+}
+
+.Attendance {
+    border-radius: 5px;
+    border: 1px solid black;
+
+    height: 37vh;
+    width: 25vw
+}
+
+.Agenda {
+    border-radius: 5px;
+    border: 1px solid black;
+
+    height: 35vh;
+    width: 50vw;
+}
+
+.Unfinished {
+    border-radius: 5px;
+    border: 1px solid black;
+
+    height: 27vh;
+    width: 70vw;
+    max-height: 5000px;
+    max-width: 5000px;
+    min-height: 10px;
+    min-width: 10px;
+}
+
+.New {
+    border-radius: 5px;
+    border: 1px solid black;
+}
+
+.Comments {
+    border-radius: 5px;
+    border: 1px solid black;
+}
+
+.Material {
+    border-radius: 5px;
+    border: 1px solid black;
+}
+
+.Audio {
+    border-radius: 5px;
+    border: 1px solid black;
+}
+
+.Video {
+    border-radius: 5px;
+    border: 1px solid black;
+}
+
+footer {
+    border-radius: 5px;
+    border: 1px solid black;
+}
