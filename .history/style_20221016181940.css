@@ -114,7 +114,12 @@ nav {
     padding: 20px;
 
     display: grid;
-    grid: auto-flow / 40vw 1fr;
+    grid-column: 2;
+    grid-template-columns: 100px 100px 100px 100px;
+    grid-template-rows: 100px 100px;
+    grid-auto-rows: 100%;
+    grid-auto-columns: 30%;
+    grid-auto-flow: row;
 }
 
 .Audio {

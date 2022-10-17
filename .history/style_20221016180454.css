@@ -107,14 +107,11 @@ nav {
     border: 1px solid black;
 
     width: 80vw;
-    height: auto;
+    height:auto;
 
     margin: 15px;
 
     padding: 20px;
-
-    display: grid;
-    grid: auto-flow / 40vw 1fr;
 }
 
 .Audio {

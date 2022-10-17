@@ -106,15 +106,14 @@ nav {
     border-radius: 5px;
     border: 1px solid black;
 
-    width: 80vw;
-    height: auto;
+    width: 50vw;
+    height: 50vmin;
 
     margin: 15px;
 
-    padding: 20px;
+    display: block;
 
-    display: grid;
-    grid: auto-flow / 40vw 1fr;
+    padding: 20px;
 }
 
 .Audio {
