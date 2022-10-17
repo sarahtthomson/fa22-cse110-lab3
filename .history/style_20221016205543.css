@@ -4,7 +4,7 @@ html {
 
 * {
     text-align: left;
-    color: rgb(40, 36, 36);
+    color: rgb(17, 16, 16);
     text-decoration: underline wavy white;
     font-family: "cat";
 }
@@ -29,7 +29,7 @@ header {
     border-width: 20px;
 
     width: 30vw;
-    height: 40ex;
+    height: 30ex;
     
     margin-top: 30pt;
     margin-left: 25vw;

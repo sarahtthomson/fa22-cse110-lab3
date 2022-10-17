@@ -4,32 +4,18 @@ html {
 
 * {
     text-align: left;
-    color: rgb(40, 36, 36);
-    text-decoration: underline wavy white;
-    font-family: "cat";
-}
-
-@font-face {
-    font-family: "cat";
-    src: url("meow.ttf");
-}
-
-button:hover {
-    color: red;
-}
-
-button:active {
-    box-shadow: 2px 2px 5px red;
 }
 
 header {
+    text-align: center;
+    
     border-radius: 15px;
     border-style: ridge;
     border-color: blue;
     border-width: 20px;
 
     width: 30vw;
-    height: 40ex;
+    height: 30ex;
     
     margin-top: 30pt;
     margin-left: 25vw;
